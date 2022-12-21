@@ -25,6 +25,6 @@
 ![Link to my CV](https://github.com/July-vilh/July-vilh/blob/main/CV.md)
 
 ### Follow me
-![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000??style=for-the-badge&logo=TELEGRAM&logoColor=3bc7f1)
-![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000??style=for-the-badge&logo=LINKEDIN&logoColor=3b54f1)
-![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000??style=for-the-badge&logo=FACEBOOK&logoColor=3b54f1)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000??style=for-the-badge&logo=TELEGRAM&logoColor=3bc7f1)](https://t.me/julvil)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000??style=for-the-badge&logo=LINKEDIN&logoColor=3b54f1)](https://www.linkedin.com/in/yuliya-vilchynskaya/)
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000??style=for-the-badge&logo=FACEBOOK&logoColor=3b54f1)](https://www.facebook.com/profile.php?id=100041046304045)
