@@ -22,7 +22,7 @@
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
 
 ### My CV
-[![CV](https://github.com/July-vilh/July-vilh/blob/main/CV.md)]
+![Link to my CV](https://github.com/July-vilh/July-vilh/blob/main/CV.md)
 
 ### Follow me
 ![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000??style=for-the-badge&logo=TELEGRAM&logoColor=3bc7f1)
