@@ -21,5 +21,10 @@
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
 
+### My CV
+[![CV](https://drive.google.com/file/d/1faB45FLrfw72mpXjBd0Lx1Bp5sHgEcey/view?usp=sharing)]
 
-Follow me
+### Follow me
+![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000??style=for-the-badge&logo=TELEGRAM&logoColor=3bc7f1)
+![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000??style=for-the-badge&logo=LINKEDIN&logoColor=3b54f1)
+![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000??style=for-the-badge&logo=FACEBOOK&logoColor=3b54f1)
