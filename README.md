@@ -20,6 +20,7 @@
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-ANDROIDSTUDIO-000000??style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=2dd827)
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
+![JMeter](https://img.shields.io/badge/-JMeter-000000??style=for-the-badge&logo=JMeter&logoColor=229799)
 
 ### My CV
 ![Link to my CV](https://github.com/July-vilh/July-vilh/blob/main/CV.md)
