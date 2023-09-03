@@ -22,9 +22,6 @@
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
 ![JMeter](https://img.shields.io/badge/-JMeter-000000??style=for-the-badge&logo=JMeter&logoColor=229799)
 
-### My CV
-![Link to my CV](https://github.com/July-vilh/July-vilh/blob/main/CV.md)
-
 ### Follow me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000??style=for-the-badge&logo=TELEGRAM&logoColor=3bc7f1)](https://t.me/julvil)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-000000??style=for-the-badge&logo=LINKEDIN&logoColor=3b54f1)](https://www.linkedin.com/in/yuliya-vilchynskaya/)
