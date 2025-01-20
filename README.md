@@ -1,6 +1,6 @@
 ![Header](https://github.com/July-vilh/July-vilh/blob/main/asserts/image.gif)
 
-## Quality-driven QA Engineer with over 2 years of commercial experience, strong knowledge of testing tools, and experience building testing processes from scratch. Interested in advancing skills in automated testing. I am a responsible and purposeful person, easy involve in working process.  
+## Quality-driven QA Engineer with almost 3 years of commercial experience, strong knowledge of testing tools, and experience building testing processes from scratch. Interested in advancing skills in automated testing.
 
 
 
